@@ -1,11 +1,5 @@
 # Build Week Scaffolding for Node and PostgreSQL
 
-## Video Tutorial
-
-The following tutorial explains how to set up this project using PostgreSQL and Heroku.
-
-[![Setting up PostgreSQL for Build Week](https://img.youtube.com/vi/kTO_tf4L23I/maxresdefault.jpg)](https://www.youtube.com/watch?v=kTO_tf4L23I)
-
 ## Requirements
 
 - [PostgreSQL, pgAdmin 4](https://www.postgresql.org/download/) and [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) installed in your local machine.
